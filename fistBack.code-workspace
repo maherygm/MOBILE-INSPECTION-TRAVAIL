@@ -1,0 +1,19 @@
+{
+  "folders": [
+	{
+		"name": "fistBack",
+		"path": "../../DEV WEB/backEnd_Express/fistBack"
+	},
+	{
+		"name": "gestion-usager-inspection-travail",
+		"path": "../../DEV WEB/gestion-usager-inspection-travail"
+	},
+	{
+		"name": "MySecondMobile",
+		"path": "."
+	}
+],
+  "settings": {
+    "files.autoSave": "afterDelay"
+  }
+}
